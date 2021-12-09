@@ -7,7 +7,7 @@
   
 </p>  
 
-## <img width='30' src='https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728'/> World
+## ✨ World
 
 <p align='center'>
   <img style="max-width: 100%;" align='middle' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesmore&layout=compact" />
