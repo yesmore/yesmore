@@ -8,10 +8,12 @@
 
 ## 二喵 
 
-- <img width='20' src='https://emojis.slackmojis.com/emojis/images/1588895440/8944/vscode.png?1588895440'/> 前端程序猿
-- <img width='20' src='https://emojis.slackmojis.com/emojis/images/1622494560/42377/yay-cat.png?1622494560'/>  爱mer
+<div>
+  <img width='20' src='https://emojis.slackmojis.com/emojis/images/1588895440/8944/vscode.png?1588895440'/>  前端程序猿 <br>
+  <img width='20' src='https://emojis.slackmojis.com/emojis/images/1622494560/42377/yay-cat.png?1622494560'/>   爱mer
+</div>
+ 
 
-<br>
 
 ## 📧 Job-hunting
 
