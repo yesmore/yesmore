@@ -3,7 +3,7 @@
 <p align='center'>
   
   <img align='left' width='40' src='https://emojis.slackmojis.com/emojis/images/1623215441/44110/cat_pls.gif?1623215441'/> 
-  <img style="max-width: 100%;" align='right' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=radical" />
+  <img style="width: 400px;" align='right' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=radical" />
 </p>  
 
 ## 二喵 
