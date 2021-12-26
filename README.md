@@ -4,9 +4,9 @@
 
 ## Hi ~ <img align='right' src="https://visitor-badge.glitch.me/badge?page_id=yesmore.yesmore" />
 
-<img align='middle' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=radical" />
+<div align='middle'>
+  <img alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=radical" />
 
-<!-- <div>
-  <code><img width='20' src='https://emojis.slackmojis.com/emojis/images/1588895440/8944/vscode.png?1588895440'/></code>  前端程序猿 <br>
-  <code><img width='20' src='https://emojis.slackmojis.com/emojis/images/1622494560/42377/yay-cat.png?1622494560'/></code>  爱mer
-</div> -->
+  <img alt='readme' src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Etc%2FGMT-8'/>
+</div>
+
