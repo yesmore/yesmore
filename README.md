@@ -12,5 +12,5 @@
 
 ## 🔥 Recent
 
-- <a href='https://github.com/yesmore/pre-interview' target='_blank'>pre-interview</a>
-- [Different UI](https://github.com/yesmore/different-ui)
+- <a href='https://github.com/yesmore/pre-interview' target='_blank'>pre-interview</a> - 查漏补缺
+- [Different UI](https://github.com/yesmore/different-ui) - ✨ A Vue.js 3 UI Library
