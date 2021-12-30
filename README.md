@@ -12,5 +12,5 @@
 
 ## 🔥 Recent
 
-- ​:orange_book: <a href='https://github.com/yesmore/pre-interview' target='_blank'>pre-interview</a> - 查漏补缺
+- ​:orange_book: <a href='https://github.com/yesmore/pre-interview' target='_blank'>pre-interview</a> - 前端零散知识点
 - ✨ [Different UI](https://github.com/yesmore/different-ui) - A Vue.js 3 UI Library
