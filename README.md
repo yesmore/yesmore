@@ -21,6 +21,13 @@
     <a href='javascript:;'><img width="35px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg'/></a>
   </code>
   <code>
+    <a href='javascript:;'><img width="35px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg'/></a>
+  </code>
+  <code>
+    <a href='javascript:;'><img width="35px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg'/></a>
+  </code>
+  &nbsp;
+  <code>
     <a href='javascript:;'><img width="35px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg'/></a>
   </code>
   <code>
@@ -34,12 +41,6 @@
   </code>
   <code>
     <a href='javascript:;'><img width="35px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg'/></a>
-  </code>
-  <code>
-    <a href='javascript:;'><img width="35px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg'/></a>
-  </code>
-  <code>
-    <a href='javascript:;'><img width="35px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg'/></a>
   </code>
 </div>
 
