@@ -8,7 +8,13 @@
   <img alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=radical" />   
 </div>
 
-## 🖥️ Technologies and Skills
+## ​:blossom: My Blog <a href='https://yesmore.cc' target='_blank'><img align='right' src='http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yesmore.cc/'/></a>
+
+<div align=''>
+  <img alt='readme' src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Etc%2FGMT-8'/>    
+</div>
+
+## 🖥️ Technologies and Skills 
 
 <div align=''>
   <code>
@@ -35,12 +41,6 @@
   <code>
     <a href='javascript:;'><img width="35px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg'/></a>
   </code>
-</div>
-
-## ​:blossom: My Blog
-
-<div align=''>
-  <img alt='readme' src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Etc%2FGMT-8'/>    
 </div>
 
 ## 🔥 Recent
