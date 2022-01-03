@@ -14,7 +14,7 @@
   <img alt='readme' src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Etc%2FGMT-8'/>    
 </div>
 
-## 🖥️ 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔 𝒂𝒏𝒅 𝑺𝒌𝒊𝒍𝒍𝒔 
+<!-- ## 🖥️ 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔 𝒂𝒏𝒅 𝑺𝒌𝒊𝒍𝒍𝒔 
 
 <div align=''>
   <code>
@@ -47,4 +47,4 @@
 ## 🔥 𝑹𝒆𝒄𝒆𝒏𝒕𝒍𝒚
 
 - ​:orange_book: <a href='https://github.com/yesmore/pre-interview' target='_blank'>pre-interview</a> - 前端零散知识点
-- ✨ [Different UI](https://github.com/yesmore/different-ui) - A Vue.js 3 UI Library
+- ✨ [Different UI](https://github.com/yesmore/different-ui) - A Vue.js 3 UI Library -->
