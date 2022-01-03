@@ -2,13 +2,13 @@
 
 <img align='left' width='40' src='https://emojis.slackmojis.com/emojis/images/1623215441/44110/cat_pls.gif?1623215441'/> 
 
-## 𝑯𝒊 ~ <img align='right' src="https://visitor-badge.glitch.me/badge?page_id=yesmore.yesmore" />
+## 𝑯𝒊 ~ 
 
 <div align=''>
   <img alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=radical" />   
 </div>
 
-## <a href='https://gitter.im/yesmore/yesmoreforchat'><img align='right' src='https://img.shields.io/gitter/room/yesmore/yesmoreforchat?logo=gitter'/></a><a href='https://yesmore.cc' target='_blank'><img align='right' src='https://img.shields.io/website?down_message=%E5%93%A6%E8%B1%81&label=Blog&logo=github&up_message=online&url=https%3A%2F%2Fyesmore.cc'/></a>
+## <img align='' src="https://visitor-badge.glitch.me/badge?page_id=yesmore.yesmore" /> <a href='https://gitter.im/yesmore/yesmoreforchat'><img align='' src='https://img.shields.io/gitter/room/yesmore/yesmoreforchat?logo=gitter'/></a> <a href='https://yesmore.cc' target='_blank'><img align='' src='https://img.shields.io/website?down_message=%E5%93%A6%E8%B1%81&label=Blog&logo=github&up_message=online&url=https%3A%2F%2Fyesmore.cc'/></a>
 
 <!-- <div align=''>
   <img alt='readme' src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Etc%2FGMT-8'/>    
