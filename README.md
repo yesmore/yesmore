@@ -8,11 +8,11 @@
   <img alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=radical" />   
 </div>
 
-## ​:blossom: 𝑴𝒚 𝑩𝒍𝒐𝒈 <a href='https://yesmore.cc' target='_blank'><img align='right' src='https://img.shields.io/website?down_message=%E5%93%A6%E8%B1%81&label=Blog&logo=github&up_message=online&url=https%3A%2F%2Fyesmore.cc'/></a><a href='https://gitter.im/yesmore/yesmoreforchat'><img align='right' src='https://img.shields.io/gitter/room/yesmore/yesmoreforchat?logo=gitter'/></a>
+## <a href='https://gitter.im/yesmore/yesmoreforchat'><img align='right' src='https://img.shields.io/gitter/room/yesmore/yesmoreforchat?logo=gitter'/></a><a href='https://yesmore.cc' target='_blank'><img align='right' src='https://img.shields.io/website?down_message=%E5%93%A6%E8%B1%81&label=Blog&logo=github&up_message=online&url=https%3A%2F%2Fyesmore.cc'/></a>
 
-<div align=''>
+<!-- <div align=''>
   <img alt='readme' src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Etc%2FGMT-8'/>    
-</div>
+</div> -->
 
 
 <!-- ## 🖥️ 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔 𝒂𝒏𝒅 𝑺𝒌𝒊𝒍𝒍𝒔 
