@@ -28,5 +28,5 @@
 
 ### 
 <a href='https://yesmore.cc' target='_blank'><img src='https://img.shields.io/website?down_message=%E5%93%A6%E8%B1%81&label=Blog&logo=github&up_message=more about me&url=https%3A%2F%2Fyesmore.cc'/></a>
-<a href='https://gitter.im/yesmore/yesmoreforchat'><img src='https://img.shields.io/gitter/room/yesmore/yesmoreforchat?logo=gitter'/></a>
+<a href='https://gitter.im/yesmore/yesmoreforchat'><img src='https://badges.gitter.im/yesmore/yesmoreforchat.svg'/></a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=yesmore.yesmore" />
