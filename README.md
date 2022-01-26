@@ -15,7 +15,7 @@
 - 🛠️ <a href='https://github.com/yesmore/QuickStart-Vue3' target='_blank'>𝐐𝐮𝐢𝐜𝐤𝐒𝐭𝐚𝐫𝐭-𝐕𝐮𝐞𝟑-𝐂𝐋𝐈</a> - 轻量脚手架工具
 - ✨ [𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐔𝐈](https://github.com/yesmore/different-ui) - A Vue.js 3 UI Library [(在线文档)](https://yesmore.cc/Different-UI/)
 - 💁 [𝐢𝐭𝐚𝐥𝐤-𝐮𝐧𝐢𝐚𝐩𝐩](https://github.com/yesmore/italk-uniapp) - 基于uniapp的聊天社交App [(试一试)](http://italk.auao.top)
-- ​:orange_book: [二喵日记](https://yesmore.cc/cn/Diary) - 一个记录本喵生活日常的踏踏
+- ​:orange_book: [2喵日记](https://yesmore.cc/cn/Diary) - 一个记录本喵生活日常的踏踏
 
 ## ✨ 𝘍𝘶𝘯𝘯𝘺
 
