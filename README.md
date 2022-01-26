@@ -2,7 +2,7 @@
 
 <img align='left' width='40' src='https://emojis.slackmojis.com/emojis/images/1623215441/44110/cat_pls.gif?1623215441'/> 
 
-## 𝘏𝘪 ~ 
+## 𝘏𝘦𝘳𝘦 𝘟𝘪 ~ 
 
 <div align=''>
   <img alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=radical" />   
