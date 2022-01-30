@@ -13,6 +13,7 @@
 
 - 🚀 <a href='https://github.com/yesmore/QuickStart-Vue3' target='_blank'>𝐐𝐮𝐢𝐜𝐤𝐒𝐭𝐚𝐫𝐭-𝐕𝐮𝐞𝟑</a> - 快速开始 Vue3 项目模板
 - 🛠️ <a href='https://github.com/yesmore/QuickStart-Vue3-CLI' target='_blank'>𝐐𝐮𝐢𝐜𝐤𝐒𝐭𝐚𝐫𝐭-𝐕𝐮𝐞𝟑-𝐂𝐋𝐈</a> - 轻量脚手架工具
+- :link: [𝘚𝘩𝘰𝘳𝘵𝘺](https://github.com/yesmore/shorty) - 短链生成器：一个构建于vercel上的serverless服务
 - ✨ [𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐔𝐈](https://github.com/yesmore/different-ui) - A Vue.js 3 UI Library [(在线文档)](https://yesmore.cc/Different-UI/)
 - 💁 [𝐢𝐭𝐚𝐥𝐤-𝐮𝐧𝐢𝐚𝐩𝐩](https://github.com/yesmore/italk-uniapp) - 基于uniapp的聊天社交App [(试一试)](http://italk.auao.top)
 - ​:orange_book: [2喵杂记](https://yesmore.cc/cn/Diary) - 一本2喵的生活杂记
