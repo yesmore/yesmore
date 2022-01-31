@@ -28,7 +28,7 @@
  ## 🔥 𝘔𝘺 𝘛𝘰𝘰𝘰𝘺𝘴
 
 - 🚀 <a href='https://github.com/yesmore/QuickStart-Vue3' target='_blank'>𝐐𝐮𝐢𝐜𝐤𝐒𝐭𝐚𝐫𝐭-𝐕𝐮𝐞𝟑</a> - 快速开始 Vue3 项目模板
-- 🛠️ <a href='https://github.com/yesmore/QuickStart-Vue3-CLI' target='_blank'>𝐐𝐮𝐢𝐜𝐤𝐒𝐭𝐚𝐫𝐭-𝐕𝐮𝐞𝟑-𝐂𝐋𝐈</a> - 轻量脚手架工具
+- 🛠️ <a href='https://github.com/yesmore/QuickStart-Vue3-CLI' target='_blank'>𝐐𝐮𝐢𝐜𝐤𝐒𝐭𝐚𝐫𝐭-𝐕𝐮𝐞𝟑-𝐂𝐋𝐈</a> - 轻量脚手架工具 (`qsvc create  demo`)
 - :link: [𝐒𝐡𝐨𝐫𝐭𝐲](https://github.com/yesmore/shorty) - 短链生成器：一个构建于[Vercel]()上的[serverless]()服务 [(试一试)]()
 - ✨ [𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐔𝐈](https://github.com/yesmore/different-ui) - A Vue.js 3 UI Library [(在线文档)](https://yesmore.cc/Different-UI/)
 - 💁 [𝐢𝐭𝐚𝐥𝐤-𝐮𝐧𝐢𝐚𝐩𝐩](https://github.com/yesmore/italk-uniapp) - 基于[uniapp]()的聊天社交App [(试一试)](http://italk.auao.top)
