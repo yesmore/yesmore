@@ -13,7 +13,6 @@
 <a href='https://yesmore.cc'><img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/></a>
 <a href='https://yesmore.cc'><img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yesmore&theme=vue'/></a> -->
 
-
 ### 
 
 <img align='left' width='40' src='https://emojis.slackmojis.com/emojis/images/1623215441/44110/cat_pls.gif?1623215441'/> 
@@ -43,6 +42,8 @@
 - [V2EX](https://www.v2ex.com/#) - 享受技术与生活
 - [一纸简历](https://cv.devtool.tech/app) - 只有一张纸的简历
 - [花里胡哨的字符](https://beizhedenglong.github.io/weird-fonts/) - 𝕃𝕚𝕜𝕖 𝕥𝕙𝕚𝕤
+
+<img src='https://activity-graph.herokuapp.com/graph?username=yesmore&theme=minimal'/> 
 
 ### 
 <a href='https://yesmore.cc' target='_blank'><img src='https://img.shields.io/website?down_message=%E5%93%A6%E8%B1%81&label=Blog&logo=github&up_message=more about me&url=https%3A%2F%2Fyesmore.cc'/></a>
