@@ -37,13 +37,20 @@
 
 - [Can't Unsee](https://cantunsee.space/) - 前端设计稿敏感度测试
 - [太鼓ウェブ - Taiko Web](https://taiko.bui.pm/) - 网页版太鼓游戏
-- [📙 Emojipedia](https://emojipedia.org/) - 😃 Home of Emoji Meanings 👌🎍😍
+- [Emojipedia](https://emojipedia.org/) - 😃 Home of Emoji Meanings 👌🎍
 - [anti996pua](https://anti996pua.github.io/) - 0基础成为优质打工人
 - [V2EX](https://www.v2ex.com/#) - 享受技术与生活
 - [一纸简历](https://cv.devtool.tech/app) - 只有一张纸的简历
 - [花里胡哨的字符](https://beizhedenglong.github.io/weird-fonts/) - 𝕃𝕚𝕜𝕖 𝕥𝕙𝕚𝕤
 
 <!-- <img src='https://activity-graph.herokuapp.com/graph?username=yesmore&theme=minimal'/>  -->
+
+## 📙 前端开源学习资料群
+
+- 欢迎学习前端的朋友/同学们来一起**讨论**、**学习**、**分享**前端知识，群内不定时分享视频、书籍PDF等学习资源，大家一起进步一起卷~ 
+- 😍 进群方式：添加 vx号 **yesmore_cc**，拉你进群
+
+- 群内已有资源：【抠der歪Vue3+Ts】【2021朱峰13期前端】【Taro3最新版开发企业级出行项目】等...
 
 ### 
 <a href='https://yesmore.cc' target='_blank'><img src='https://img.shields.io/website?down_message=%E5%93%A6%E8%B1%81&label=Blog&logo=github&up_message=more about me&url=https%3A%2F%2Fyesmore.cc'/></a>
