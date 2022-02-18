@@ -1,7 +1,7 @@
 <img align="right" width="400px" alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=radical" /> 
 <a href="#"><img width="400px"  align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=html'/></a>
 
-## <img width='40' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/> 泥壕呀 ~ 
+## <img width='30' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/> 泥壕呀 ~ 
 
 - 我是 [2喵](https://yesmore.cc), 或者222喵. <img width='30' src='https://emojis.slackmojis.com/emojis/images/1623215441/44110/cat_pls.gif?1623215441'>
 
