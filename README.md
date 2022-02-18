@@ -49,7 +49,7 @@
 
 - 欢迎学习前端的朋友/同学们来一起**讨论**、**学习**、**分享**前端知识
 - 群内不定时分享视频、书籍PDF等学习资源，大家一起进步一起卷~ 
-- 进群方式：添加 vx号 **yesmore_cc**，拉你进群【注明来意！】
+- 进群方式：添加 vx号 **`yesmore_cc`**，拉你进群【注明来意！】
 
 ### 
 <a href='https://yesmore.cc' target='_blank'><img src='https://img.shields.io/website?down_message=%E5%93%A6%E8%B1%81&label=Blog&logo=github&up_message=more about me&url=https%3A%2F%2Fyesmore.cc'/></a>
