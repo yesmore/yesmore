@@ -4,9 +4,13 @@
 ## <img width='40' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/> 泥壕呀 ~ 
 
 - 我是 [2喵](https://yesmore.cc), 或者222喵. <img width='30' src='https://emojis.slackmojis.com/emojis/images/1623215441/44110/cat_pls.gif?1623215441'>
+
 - 目前是成都某~~高校~~ 2019 级本科牲, ~~对编程的爱好起源于大一的C语言期末满分~~(新世界大门属于是).
+
 - 倒装句患者 | 反射弧略长 | 喜欢东捣捣西捣捣.
+
 - [快乐码原](https://yesmore.cc) 是我的个人博客, 欢迎来参观~
+
 - 如果想找我玩(coding), 那↘ 就↗ 来↗ 吧↘ !
 
 ## [![Blog](https://img.shields.io/badge/-https://yesmore.cc-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://yesmore.cc) [![Email](https://img.shields.io/badge/-3224266014@qq.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:3224266014_at_qq.com) [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&style=flat-square&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dyesmore&longCache=true)](https://github.com/yesmore) <a href='https://gitter.im/yesmore/yesmoreforchat'><img src='https://badges.gitter.im/yesmore/yesmoreforchat.svg'/></a> <img src="https://visitor-badge.glitch.me/badge?page_id=yesmore.yesmore" />
