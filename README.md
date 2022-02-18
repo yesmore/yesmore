@@ -15,7 +15,7 @@
 
 ## [![Blog](https://img.shields.io/badge/-https://yesmore.cc-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://yesmore.cc) [![Email](https://img.shields.io/badge/-3224266014@qq.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:3224266014_at_qq.com) [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&style=flat-square&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dyesmore&longCache=true)](https://github.com/yesmore) <a href='https://gitter.im/yesmore/yesmoreforchat'><img src='https://badges.gitter.im/yesmore/yesmoreforchat.svg'/></a> <img src="https://visitor-badge.glitch.me/badge?page_id=yesmore.yesmore" />
 
- ## 🔥 𝘔𝘺 𝘛𝘰𝘰𝘰𝘺𝘴
+ ## 🔥 𝘔𝘺 𝘛𝘰𝘰𝘰𝘰𝘰𝘰𝘺
 
 - 🚀 <a href='https://github.com/yesmore/QuickStart-Vue3' target='_blank'>𝐐𝐮𝐢𝐜𝐤𝐒𝐭𝐚𝐫𝐭-𝐕𝐮𝐞𝟑</a> - 快速开始 Vue3 项目模板
 - 🛠️ <a href='https://github.com/yesmore/QuickStart-Vue3-CLI' target='_blank'>𝐐𝐮𝐢𝐜𝐤𝐒𝐭𝐚𝐫𝐭-𝐕𝐮𝐞𝟑-𝐂𝐋𝐈</a> - 轻量脚手架工具 (`qsvc create demo`)
