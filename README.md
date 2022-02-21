@@ -33,7 +33,7 @@
 - 群内不定时分享视频、书籍PDF等学习资源，大家一起进步一起卷~ 
 - 进群方式：添加 vx号 **`yesmore_cc`**，拉你进群【注明来意！】
 
-
+<img src="https://count.getloli.com/get/@yesmore?theme=rule34" alt="visit" />
 
 <!-- <a href='https://yesmore.cc'><img src='https://img.shields.io/badge/Hexo-2962FF?style=for-the-badge&logo=hexo&logoColor=white'/></a>
 <a href='https://yesmore.cc'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
