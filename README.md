@@ -1,7 +1,7 @@
-<img align="right" width="350px" alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=radical" /> 
+<img align="right" width="380px" alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=radical" /> 
 
-<a href="#"><img width="350px" align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=html'/></a>
-<img align="right" width="350px" src="https://count.getloli.com/get/@yesmore?theme=rule34" alt="visit" />
+<a href="#"><img width="380px" align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=html'/></a>
+<img align="right" width="380px" src="https://count.getloli.com/get/@yesmore?theme=rule34" alt="visit" />
 
 ## <img width='30' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/> 𝘏𝘦𝘳𝘦 ~ 
 
