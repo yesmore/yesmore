@@ -6,7 +6,6 @@
 ## <img width='30' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/> 𝘏𝘦𝘳𝘦 ~ 
 
 - 我是 [2喵](https://yesmore.cc), 或者222喵. <img width='30' src='https://emojis.slackmojis.com/emojis/images/1623215441/44110/cat_pls.gif?1623215441'>
-
 - 目前是成都某~~高校~~ 2019 级本科牲.
 - 倒装句患者 | 反射弧略长 | 喜欢东捣捣西捣捣.
 - [快乐码原](https://yesmore.cc) 是我的个人博客, 欢迎来参观~
