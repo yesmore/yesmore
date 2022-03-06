@@ -15,36 +15,12 @@
 
  ## 🔥 𝘔𝘺 𝘛𝘰𝘰𝘰𝘰𝘰𝘰𝘺
 
-- 🛠️ <a href='https://der-cli.vercel.app/' target='_blank'>𝐃𝐞𝐫-𝐂𝐥𝐢</a> - 轻量脚手架工具 `der go`
+- 🛠️ <a href='https://github.com/der-cli/cli' target='_blank'>𝐃𝐞𝐫-𝐂𝐥𝐢</a> - 轻量脚手架工具 `der go` [(线上预览)](https://der-cli.vercel.app/)
 - 🚀 <a href='https://github.com/yesmore/QuickStart-Vue3' target='_blank'>𝐐𝐮𝐢𝐜𝐤𝐒𝐭𝐚𝐫𝐭-𝐕𝐮𝐞𝟑</a> - 快速开始 Vue3 项目模板
-- :link: [𝐒𝐡𝐨𝐫𝐭𝐲](https://github.com/yesmore/shorty) - 短链生成器：一个构建于[Vercel]()上的[Serverless]()服务 [(试一试)](https://nb.js.cn/)
-- ✨ [𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐔𝐈](https://github.com/yesmore/different-ui) - A Vue.js 3 UI Library [(在线文档)](https://yesmore.cc/Different-UI/)
-- 💁 [𝐢𝐭𝐚𝐥𝐤-𝐮𝐧𝐢𝐚𝐩𝐩](https://github.com/yesmore/italk-uniapp) - 基于[uniapp]()的聊天社交App [(试一试)](http://italk.auao.top)
-- ​:orange_book: [2喵杂记](https://yesmore.cc/cn/Diary) - 一本2喵的生活杂记
-
+- :link: [𝐒𝐡𝐨𝐫𝐭𝐲](https://github.com/yesmore/shorty) - 短链生成器：一个构建于[Vercel]()上的[Serverless]()服务 [(线上预览)](https://nb.js.cn/)
+- ✨ [𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐔𝐈](https://github.com/yesmore/different-ui) - A Vue.js 3 UI Library [(线上预览)](https://yesmore.cc/Different-UI/)
+- 💁 [𝐢𝐭𝐚𝐥𝐤-𝐮𝐧𝐢𝐚𝐩𝐩](https://github.com/yesmore/italk-uniapp) - 基于[uniapp]()的聊天社交App [(线上预览)](http://italk.auao.top)
+- :orange_book: [2喵杂记](https://yesmore.cc/cn/Diary) - 一本2喵的生活杂记 [(瞧一瞧)](https://yesmore.cc/cn/Diary/)
 
 <!-- <img src='https://activity-graph.herokuapp.com/graph?username=yesmore&theme=minimal'/>  -->
 
-## 📙 2022前端开源学习资料群
-
-- 欢迎学习前端的朋友/同学们来一起**讨论**、**学习**、**分享**前端知识
-- 群内不定时分享视频、书籍PDF等学习资源，大家一起进步一起卷~ 
-- 进群方式：添加 vx号 **`yesmore_cc`**，拉你进群【注明来意！】
-- 无广告、无套路、不卖课、白嫖、白嫖、白嫖！
-
-
-
-<!-- <a href='https://yesmore.cc'><img src='https://img.shields.io/badge/Hexo-2962FF?style=for-the-badge&logo=hexo&logoColor=white'/></a>
-<a href='https://yesmore.cc'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
-<a href='https://vercel.com/'><img src='https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white'/></a>
-<a href='https://yesmore.cc'><img src='https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9'/></a>
-<a href='https://yesmore.cc'><img src='https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white'/></a>
-<a href='https://yesmore.cc'><img src='https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white'/></a>
-<a href='https://yesmore.cc'><img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'/></a>
-<a href='https://yesmore.cc'><img src='https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'/></a>
-<a href='https://yesmore.cc'><img src='https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white'/></a>
-<a href='https://yesmore.cc'><img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/></a>
-<a href='https://yesmore.cc'><img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D'/></a>
-<a href='https://yesmore.cc'><img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/></a>
-<a href='https://yesmore.cc'><img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/></a>
-<a href='https://yesmore.cc'><img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yesmore&theme=vue'/></a> -->
