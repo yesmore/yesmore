@@ -1,4 +1,4 @@
-<div align='middle'><img src='https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%83%B3%E6%8A%8A%E6%89%8B%E4%BC%B8%E5%90%91%E5%A4%9C%E7%A9%BA%EF%BC%8C%E5%8E%BB%E6%8D%95%E6%8D%89%E9%82%A3%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E6%98%9F%E6%98%9F%EF%BC%9B;%E4%BD%86%E5%8D%B4%E6%9E%81%E5%B0%91%E6%9C%89%E4%BA%BA%E8%83%BD%E6%AD%A3%E7%A1%AE%E7%9A%84%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E7%9A%84%E6%98%9F%E6%98%9F%E5%9C%A8%E5%93%AA%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE%E3%80%82'/></div>
+<div align='middle'><img src='https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=600&lines=%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%83%B3%E6%8A%8A%E6%89%8B%E4%BC%B8%E5%90%91%E5%A4%9C%E7%A9%BA%EF%BC%8C%E5%8E%BB%E6%8D%95%E6%8D%89%E9%82%A3%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E6%98%9F%E6%98%9F%EF%BC%9B;%E4%BD%86%E5%8D%B4%E6%9E%81%E5%B0%91%E6%9C%89%E4%BA%BA%E8%83%BD%E6%AD%A3%E7%A1%AE%E7%9A%84%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E7%9A%84%E6%98%9F%E6%98%9F%E5%9C%A8%E5%93%AA%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE%E3%80%82'/></div>
 
 <table border="0">
 <tr>
@@ -14,7 +14,7 @@
       <li>如果想找我🤺, 那↘ 就↗ 来↗ 吧↘ !</li>
   </ul>    
 </td>
-    <td><img width="380px" alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=radical" /></td>
+    <td width="380px"><img width="380px" alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=radical" /></td>
 </tr>
 <tr>
     <td>
@@ -31,7 +31,7 @@
             <li>📘 <a href='https://yesmore.cc/cn/Diary/'>2喵杂记</a> - 一本2喵的生活杂记</li>
         </ul>
     </td>
-	<td><a href="#"><img width="380px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=html'/></td>
+	<td width="380px"><img width="380px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=html'/></td>
 </tr>
   <tr>
     <td>
@@ -42,7 +42,7 @@
             <li>加vx: <code>yesmore_cc</code> 并注明来意即可进群.</li>
         </ul>
     </td>
-    <td><img src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Etc%2FGMT-8'/></td>
+    <td width="380px"><img src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Etc%2FGMT-8'/></td>
 </tr>
 </table>
 
