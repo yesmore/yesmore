@@ -3,9 +3,9 @@
 <table border="0">
 <tr>
     <td>
-	<h3>
+	<h2>
 	   <img width='30' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/> 𝘏𝘦𝘦𝘦𝘦𝘳𝘦 ~  
-	</h3>
+	</h2>
   	<ul>
            <li>我是 <a href='https://yesmore.cc'>2meow</a>, 或者2喵. </li>    
            <li>目前是成都某<em>高校</em> 2019 级本科牲.</li> 
@@ -16,9 +16,9 @@
   	</ul> 
     </td>
     <td>
-	 <h3>
+	 <h2>
             🔥 𝘔𝘺 𝘛𝘰𝘰𝘰𝘰𝘰𝘰𝘺
-        </h3>
+        </h2>
         <ul>
             <li>🛠️ <a href='https://der-cli.vercel.app/' target='_blank'>𝐃𝐞𝐫-𝐂𝐥𝐢</a> - 轻量脚手架工具 </li>
             <li>🔗 <a href='https://nb.js.cn/'>𝐒𝐡𝐨𝐫𝐭𝐲</a> - 短链生成器</li>
@@ -39,7 +39,23 @@
 </tr>
 </table>
 
-<img width="400px" align='right' src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Etc%2FGMT-8'/>
+
+
+<table border="0">
+<tr>
+    <td width='1800'>
+	    <img width="400px" align='right' src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Etc%2FGMT-8'/>  
+	<h3>
+	   🤖 𝘙𝘦𝘢𝘤𝘩 𝘮𝘦
+	</h3>
+  	<a href='https://yesmore.cc'><img src='https://img.shields.io/badge/-https://yesmore.cc-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://yesmore.cc'/></a> 
+	<a href='mailto:3224266014_at_qq.com'><img src='https://img.shields.io/badge/-3224266014@qq.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438'/></a> <br>
+	<a href='https://github.com/yesmore'><img src='https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&style=flat-square&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dyesmore&longCache=true'/></a> 
+	 <a href='https://gitter.im/yesmore/yesmoreforchat'><img src='https://badges.gitter.im/yesmore/yesmoreforchat.svg'/></a> <br>
+	  <img src="https://visitor-badge.glitch.me/badge?page_id=yesmore.yesmore" /><br>
+    </td>
+</tr>
+</table>
 
 ## 🤖 𝘙𝘦𝘢𝘤𝘩 𝘮𝘦
 
