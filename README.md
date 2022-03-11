@@ -21,11 +21,11 @@
         </h3>
         <ul>
             <li>🛠️ <a href='https://der-cli.vercel.app/' target='_blank'>𝐃𝐞𝐫-𝐂𝐥𝐢</a> - 轻量脚手架工具 </li>
-            <li>🔗 <a href='https://nb.js.cn/'>𝐒𝐡𝐨𝐫𝐭𝐲</a> - 短链生成器：一个构建于Vercel上的Serverless服务</li>
-            <li>🔥 <a href='https://vupp.vercel.app/'>𝐕𝐔𝐏𝐏</a> - Vue3+ElePlus+Ts 疯装的业务组件库</li>
-            <li>✨ <a href='https://yesmore.cc/Different-UI/'>𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐔𝐈</a> - A Vue.js 3 UI Library </li>
-            <li>💁 <a href='http://italk.auao.top'>𝐢𝐭𝐚𝐥𝐤-𝐮𝐧𝐢𝐚𝐩𝐩</a> - 基于uniapp的聊天社交App</li>
-            <li>📘 <a href='https://yesmore.cc/cn/Diary/'>2喵杂记</a> - 一本2喵的生活杂记</li>
+            <li>🔗 <a href='https://nb.js.cn/'>𝐒𝐡𝐨𝐫𝐭𝐲</a> - 短链生成器</li>
+            <li>🔥 <a href='https://vupp.vercel.app/'>𝐕𝐔𝐏𝐏</a> - 疯装业务组件库</li>
+            <li>✨ <a href='https://yesmore.cc/Different-UI/'>𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐔𝐈</a> - A UI Library </li>
+            <li>💁 <a href='http://italk.auao.top'>𝐢𝐭𝐚𝐥𝐤-𝐮𝐧𝐢𝐚𝐩𝐩</a> - QQ(假)</li>
+            <li>📘 <a href='https://yesmore.cc/cn/Diary/'>2喵杂记</a> - 小本本</li>
         </ul>
     </td>
 </tr>
