@@ -11,7 +11,7 @@
            <li>目前是成都某<em>高校</em> 2019 级本科牲.</li> 
           <li>倒装句患者 | 反射弧略长 | 喜欢东捣捣西捣捣.</li> 
           <li><a href='https://yesmore.cc'>快乐码原</a> 是我的个人博客, 欢迎来参观~</li> 
-	  <li>我建立了一个前端交流群，分享一些学习资源.(加vx: <code>yesmore_cc</code> )</li>
+	  <li>我建立了一个前端交流群，分享一些学习资源.(加vx: <code>yesmore_cc</code> 即可进群)</li>
           <li>如果想找我🤺, 那↘ 就↗ 来↗ 吧↘ !</li>
   	</ul> 
     </td>
