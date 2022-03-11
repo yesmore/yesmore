@@ -7,7 +7,7 @@
 	   <img width='30' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/> 𝘏𝘦𝘦𝘦𝘦𝘳𝘦 ~  
 	</h3>
   	<ul>
-           <li>我是 <a href='https://yesmore.cc'>2meow</a>, 或者2喵. <img width='30' src='https://emojis.slackmojis.com/emojis/images/1623215441/44110/cat_pls.gif?1623215441'></li>    
+           <li>我是 <a href='https://yesmore.cc'>2meow</a>, 或者2喵. </li>    
            <li>目前是成都某<em>高校</em> 2019 级本科牲.</li> 
           <li>倒装句患者 | 反射弧略长 | 喜欢东捣捣西捣捣.</li> 
           <li><a href='https://yesmore.cc'>快乐码原</a> 是我的个人博客, 欢迎来参观~</li> 
@@ -48,4 +48,4 @@
 
 
 <!-- <img src='https://activity-graph.herokuapp.com/graph?username=yesmore&theme=minimal'/>  -->
-
+<!-- <img width='30' src='https://emojis.slackmojis.com/emojis/images/1623215441/44110/cat_pls.gif?1623215441'> -->
