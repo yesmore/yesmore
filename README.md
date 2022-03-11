@@ -1,4 +1,4 @@
-<div align='middle'><img src='https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=600&lines=%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%83%B3%E6%8A%8A%E6%89%8B%E4%BC%B8%E5%90%91%E5%A4%9C%E7%A9%BA%EF%BC%8C%E5%8E%BB%E6%8D%95%E6%8D%89%E9%82%A3%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E6%98%9F%E6%98%9F%EF%BC%9B;%E4%BD%86%E5%8D%B4%E6%9E%81%E5%B0%91%E6%9C%89%E4%BA%BA%E8%83%BD%E6%AD%A3%E7%A1%AE%E7%9A%84%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E7%9A%84%E6%98%9F%E6%98%9F%E5%9C%A8%E5%93%AA%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE%E3%80%82'/></div>
+<div align='middle'><img src='https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&lines=%E4%B8%8D%E5%BF%85%E4%BB%B0%E6%9C%9B%E5%88%AB%E4%BA%BA;%E8%87%AA%E5%B7%B1%E4%BA%A6%E6%98%AF%E9%A3%8E%E6%99%AF'/></div>
 
 <table border="0">
 <tr>
