@@ -2,28 +2,25 @@
 
 <table border="0">
 <tr>
-	<td>
-        <h3>
-           <img width='30' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/> 𝘏𝘦𝘦𝘦𝘦𝘳𝘦 ~  
-        </h3>
-  <ul>
-      <li>我是 <a href='https://yesmore.cc'>2meow</a>, 或者2喵. <img width='30' src='https://emojis.slackmojis.com/emojis/images/1623215441/44110/cat_pls.gif?1623215441'></li>    
-      <li>目前是成都某<em>高校</em> 2019 级本科牲.</li> 
-      <li>倒装句患者 | 反射弧略长 | 喜欢东捣捣西捣捣.</li> 
-      <li><a href='https://yesmore.cc'>快乐码原</a> 是我的个人博客, 欢迎来参观~</li> 
-      <li>如果想找我🤺, 那↘ 就↗ 来↗ 吧↘ !</li>
-  </ul>    
-</td>
-    <td width="380px"><img width="380px" alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=radical" /></td>
-</tr>
-<tr>
     <td>
-        <h3>
+	<h3>
+	   <img width='30' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/> 𝘏𝘦𝘦𝘦𝘦𝘳𝘦 ~  
+	</h3>
+  	<ul>
+           <li>我是 <a href='https://yesmore.cc'>2meow</a>, 或者2喵. <img width='30' src='https://emojis.slackmojis.com/emojis/images/1623215441/44110/cat_pls.gif?1623215441'></li>    
+           <li>目前是成都某<em>高校</em> 2019 级本科牲.</li> 
+          <li>倒装句患者 | 反射弧略长 | 喜欢东捣捣西捣捣.</li> 
+          <li><a href='https://yesmore.cc'>快乐码原</a> 是我的个人博客, 欢迎来参观~</li> 
+	  <li>我建立了一个前端交流群，分享一些学习资源.(加vx: <code>yesmore_cc</code> )</li>
+          <li>如果想找我🤺, 那↘ 就↗ 来↗ 吧↘ !</li>
+  	</ul> 
+    </td>
+    <td>
+	 <h3>
             🔥 𝘔𝘺 𝘛𝘰𝘰𝘰𝘰𝘰𝘰𝘺
         </h3>
         <ul>
             <li>🛠️ <a href='https://der-cli.vercel.app/' target='_blank'>𝐃𝐞𝐫-𝐂𝐥𝐢</a> - 轻量脚手架工具 </li>
-            <li>🚀 <a href='https://github.com/yesmore/QuickStart-Vue3' target='_blank'>𝐐𝐮𝐢𝐜𝐤𝐒𝐭𝐚𝐫𝐭-𝐕𝐮𝐞𝟑</a> -  Vue3 项目模板</li>
             <li>🔗 <a href='https://nb.js.cn/'>𝐒𝐡𝐨𝐫𝐭𝐲</a> - 短链生成器：一个构建于Vercel上的Serverless服务</li>
             <li>🔥 <a href='https://vupp.vercel.app/'>𝐕𝐔𝐏𝐏</a> - Vue3+ElePlus+Ts 疯装的业务组件库</li>
             <li>✨ <a href='https://yesmore.cc/Different-UI/'>𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐔𝐈</a> - A Vue.js 3 UI Library </li>
@@ -31,22 +28,18 @@
             <li>📘 <a href='https://yesmore.cc/cn/Diary/'>2喵杂记</a> - 一本2喵的生活杂记</li>
         </ul>
     </td>
-	<td width="380px"><img width="380px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=html'/></td>
 </tr>
-  <tr>
-    <td>
-        <h3>💪 𝘍𝘪𝘨𝘩𝘵𝘪𝘯𝘨</h3>
-        <ul>
-            <li>我建立了一个前端交流群，大家一起学习.</li>
-            <li>会分享一些学习资源如视频资料等.</li>
-            <li>加vx: <code>yesmore_cc</code> 并注明来意即可进群.</li>
-        </ul>
+<tr>
+    <td>      
+	<img width="380px" alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=radical" />
     </td>
-    <td width="380px"><img src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Etc%2FGMT-8'/></td>
+    <td>
+	<img width="380px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=html'/>
+    </td>
 </tr>
 </table>
 
-
+<img width="400px" align='right' src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Etc%2FGMT-8'/>
 
 ## 🤖 𝘙𝘦𝘢𝘤𝘩 𝘮𝘦
 
