@@ -1,6 +1,8 @@
 <img align="right" width="380px" alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=radical" /> 
 
 <a href="#"><img width="380px" align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=html'/></a>
+
+<img align='right' width="380px" src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Etc%2FGMT-8'/>
 <!-- <img align="right" width="380px" src="https://count.getloli.com/get/@yesmore?theme=rule34" alt="visit" /> -->
 
 # <img width='30' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/> 𝘏𝘦𝘦𝘦𝘦𝘳𝘦 ~ 
@@ -23,6 +25,6 @@
 - 💁 [𝐢𝐭𝐚𝐥𝐤-𝐮𝐧𝐢𝐚𝐩𝐩](https://github.com/yesmore/italk-uniapp) - 基于[uniapp]()的聊天社交App [(线上预览)](http://italk.auao.top)
 - :orange_book: [2喵杂记](https://yesmore.cc/cn/Diary) - 一本2喵的生活杂记 [(瞧一瞧)](https://yesmore.cc/cn/Diary/)
 
-![Metrics](https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Etc%2FGMT-8)
+
 <!-- <img src='https://activity-graph.herokuapp.com/graph?username=yesmore&theme=minimal'/>  -->
 
