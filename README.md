@@ -44,7 +44,7 @@
 <table border="0">
 <tr>
     <td width='1800'>
-	    <img width="400px" align='right' src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Etc%2FGMT-8'/>  
+	    <img width="380px" align='right' src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Etc%2FGMT-8'/>  
 	<h3>
 	   🤖 𝘙𝘦𝘢𝘤𝘩 𝘮𝘦
 	</h3>
