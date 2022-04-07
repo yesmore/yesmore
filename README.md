@@ -8,7 +8,7 @@
 	</h2>
   	<ul>
            <li>我是 <a href='https://yesmore.cc'>2meow</a>, 或者2喵. </li>    
-           <li>目前是成都某<em>高校</em> 2019 级本科牲.</li> 
+           <li>目前是成都<em>双流一</em>大学 2019 级本科牲.</li> 
           <li>倒装句患者 | 反射弧略长 | 喜欢东捣捣西捣捣.</li> 
           <li><a href='https://yesmore.cc'>快乐码原</a> 是我的个人博客, 欢迎来参观~ </li> 
 	  <li>我建立了一个<strong>前端交流群</strong>，分享一些学习资源.(群号: <code>982545311</code>)</li>
@@ -21,7 +21,7 @@
         </h2>
         <ul>
             <li>🛠️ <a href='https://der-cli.vercel.app/' target='_blank'>𝐃𝐞𝐫-𝐂𝐥𝐢</a> - 轻量脚手架工具 </li>
-            <li>🔗 <a href='https://cv-mkr.vercel.app/'>𝐂𝐕 𝐌𝐊𝐫</a> - 简历生成器 </li>
+            <li>🎨 <a href='https://cv-mkr.vercel.app/'>𝐂𝐕 𝐌𝐊𝐫</a> - 简历生成器 </li>
             <li>🔗 <a href='https://nb.js.cn/'>𝐒𝐡𝐨𝐫𝐭𝐲</a> - 短链生成器 </li>
             <li>🔥 <a href='https://vupp.vercel.app/'>𝐕𝐔𝐏𝐏</a> - Vue3+ElePlus+Ts 疯装的业务组件库</li>
             <li>✨ <a href='https://yesmore.cc/Different-UI/'>𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐔𝐈</a> - A Vue3 UI Library </li>
