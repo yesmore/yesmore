@@ -9,7 +9,7 @@
   	<ul>
            <li>我是 <a href='https://yesmore.cc'>2meow</a>, 或者2喵. </li>    
            <li>目前是成都<em>双流一</em>大学 2019 级本科牲.</li> 
-          <li>倒装句患者 | 反射弧略长 | 喜欢东捣捣西捣捣.</li> 
+          <li>倒装句患者 | 反射弧略长 | 喜欢东捣西捣.</li> 
           <li><a href='https://yesmore.cc'>快乐码原</a> 是我的个人博客, 欢迎来参观~ </li> 
 	  <li>欢迎加入<strong>前端交流群</strong>，分享、讨论共同进步.(群号: <code>982545311</code>)</li>
           <li>如果想找我🤺, 那↘ 就↗ 来↗ 吧↘ !</li>
