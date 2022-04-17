@@ -17,7 +17,7 @@
     </td>
     <td>
 	 <h2>
-            🔥 𝘔𝘺 𝘛𝘰𝘰𝘰𝘰𝘰𝘰𝘺
+            🔥 𝘔𝘺 𝘛𝘰𝘰𝘰𝘰𝘰𝘰𝘺 
         </h2>
         <ul>
             <li>🛠️ <a href='https://der-cli.vercel.app/' target='_blank'>𝐃𝐞𝐫-𝐂𝐥𝐢</a> - 轻量脚手架工具 </li>
