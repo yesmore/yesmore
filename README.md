@@ -26,7 +26,7 @@
             <li>🔥 <a href='https://vupp.vercel.app/'>𝐕𝐔𝐏𝐏</a> - 疯装的业务组件库</li>
             <li>✨ <a href='https://yesmore.cc/Different-UI/'>𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐔𝐈</a> - A Vue3 UI Library </li>
             <li>💁 <a href='http://italk.auao.top'>𝐢𝐭𝐚𝐥𝐤-𝐮𝐧𝐢𝐚𝐩𝐩</a> - QQ(假)</li>
-            <li>📘 <a href='https://yesmore.cc/cn/Diary/'>2喵杂记</a> - 一本2喵的生活杂记</li>
+            <li>📘 <a href='https://yesmore.cc/cn/Diary/'>2喵杂记</a> - 生活杂记</li>
         </ul>
     </td>
 </tr>
