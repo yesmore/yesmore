@@ -32,10 +32,16 @@
 </tr>
 <tr>
     <td>      
-	<img height='200px' alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=radical" />
+	<img height='200px' alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=react  " />
     </td>
     <td>
 	<img  height='200px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=html'/>
+    </td>
+</tr>
+<tr>
+    <td colspan="2" >      
+	<img width='45%' alt='readme' src="https://api.star-history.com/svg?repos=yesmore/cv-mkr,B-SOUL-Studio/cli,yesmore/Different-UI,yesmore/italk-uniapp,yesmore/QuickStart-Vue3,yesmore/vue-egg-jwt-template,yesmore/vupp&type=Date)](https://star-history.com/#yesmore/cv-mkr&B-SOUL-Studio/cli&yesmore/Different-UI&yesmore/italk-uniapp&yesmore/QuickStart-Vue3&yesmore/vue-egg-jwt-template&yesmore/vupp&Date" />
+<img width='50%' align='right' src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Etc%2FGMT-8'/>  
     </td>
 </tr>
 </table>
@@ -48,9 +54,6 @@
 <a href='mailto:3224266014_at_qq.com'><img src='https://img.shields.io/badge/-3224266014@qq.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438'/></a <br>
 <a href='https://github.com/yesmore'><img src='https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&style=flat-square&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dyesmore&longCache=true'/></a> 
 <a href='https://gitter.im/yesmore/yesmoreforchat'><img src='https://badges.gitter.im/yesmore/yesmoreforchat.svg'/></a> <img src="https://visitor-badge.glitch.me/badge?page_id=yesmore.yesmore" /> 
-
-
-<img width='90%' src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Etc%2FGMT-8'/>  
 
 
 <!-- <img src='https://activity-graph.herokuapp.com/graph?username=yesmore&theme=minimal'/>  -->
