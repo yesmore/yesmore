@@ -32,15 +32,15 @@
 </tr>
 <tr>
     <td>      
-	<img height='200px' alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=react  " />
+	<img height='250px' alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=react  " />
     </td>
     <td>
-	<img  height='200px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=html'/>
+	<img  height='250px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=html'/>
     </td>
 </tr>
 <tr>
     <td colspan="2" >      
-	<img width='45%' alt='readme' src="https://api.star-history.com/svg?repos=yesmore/cv-mkr,B-SOUL-Studio/cli,yesmore/Different-UI,yesmore/italk-uniapp,yesmore/QuickStart-Vue3,yesmore/vue-egg-jwt-template,yesmore/vupp&type=Date)](https://star-history.com/#yesmore/cv-mkr&B-SOUL-Studio/cli&yesmore/Different-UI&yesmore/italk-uniapp&yesmore/QuickStart-Vue3&yesmore/vue-egg-jwt-template&yesmore/vupp&Date" />
+	<img width='47%' alt='readme' src="https://api.star-history.com/svg?repos=yesmore/cv-mkr,B-SOUL-Studio/cli,yesmore/Different-UI,yesmore/italk-uniapp,yesmore/QuickStart-Vue3,yesmore/vue-egg-jwt-template,yesmore/vupp&type=Date)](https://star-history.com/#yesmore/cv-mkr&B-SOUL-Studio/cli&yesmore/Different-UI&yesmore/italk-uniapp&yesmore/QuickStart-Vue3&yesmore/vue-egg-jwt-template&yesmore/vupp&Date" />
 <img width='50%' align='right' src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Etc%2FGMT-8'/>  
     </td>
 </tr>
