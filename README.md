@@ -1,4 +1,4 @@
-<div align='middle'><img src='https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&lines=%E4%B8%8D%E5%BF%85%E4%BB%B0%E6%9C%9B%E5%88%AB%E4%BA%BA;%E8%87%AA%E5%B7%B1%E4%BA%A6%E6%98%AF%E9%A3%8E%E6%99%AF'/></div>
+
 
 <table border="0">
 <tr>
@@ -54,7 +54,7 @@
 <a href='mailto:3224266014_at_qq.com'><img src='https://img.shields.io/badge/-3224266014@qq.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438'/></a <br>
 <a href='https://github.com/yesmore'><img src='https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&style=flat-square&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dyesmore&longCache=true'/></a> 
 <a href='https://gitter.im/yesmore/yesmoreforchat'><img src='https://badges.gitter.im/yesmore/yesmoreforchat.svg'/></a> <img src="https://visitor-badge.glitch.me/badge?page_id=yesmore.yesmore" /> 
-
-
+	
+<div align='middle'><img src='https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&lines=%E4%B8%8D%E5%BF%85%E4%BB%B0%E6%9C%9B%E5%88%AB%E4%BA%BA;%E8%87%AA%E5%B7%B1%E4%BA%A6%E6%98%AF%E9%A3%8E%E6%99%AF'/></div>
 <!-- <img src='https://activity-graph.herokuapp.com/graph?username=yesmore&theme=minimal'/>  -->
 <!-- <img width='30' src='https://emojis.slackmojis.com/emojis/images/1623215441/44110/cat_pls.gif?1623215441'> -->
