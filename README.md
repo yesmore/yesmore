@@ -40,7 +40,7 @@
 </tr>
 </table>
 
-<img src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Etc%2FGMT-8'/>  
+<img width='100%' src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Etc%2FGMT-8'/>  
 
 
 <h2>
