@@ -32,7 +32,7 @@
 </tr>
 <tr>
     <td>      
-	<img align='center' height='180px' alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=react  " />
+	<img align='center' height='180px' alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=react" />
     </td>
     <td>
 	<img align='center' height='180px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=html'/>
