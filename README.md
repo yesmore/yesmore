@@ -40,12 +40,12 @@
 </tr>
 <tr>
     <td colspan="2" align="center">      
-	<img width='70%' src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Etc%2FGMT-8'/>  
+	<img width='80%' src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Etc%2FGMT-8'/>  
     </td>
 </tr>
 <tr>
     <td colspan="2" align="center">      
-	    <img width='70%' alt='readme' src="https://api.star-history.com/svg?repos=yesmore/cv-mkr,B-SOUL-Studio/cli,yesmore/Different-UI,yesmore/italk-uniapp,yesmore/QuickStart-Vue3,yesmore/vue-egg-jwt-template,yesmore/vupp&type=Date)](https://star-history.com/#yesmore/cv-mkr&B-SOUL-Studio/cli&yesmore/Different-UI&yesmore/italk-uniapp&yesmore/QuickStart-Vue3&yesmore/vue-egg-jwt-template&yesmore/vupp&Date" />
+	    <img width='80%' alt='readme' src="https://api.star-history.com/svg?repos=yesmore/cv-mkr,B-SOUL-Studio/cli,yesmore/Different-UI,yesmore/italk-uniapp,yesmore/QuickStart-Vue3,yesmore/vue-egg-jwt-template,yesmore/vupp&type=Date)](https://star-history.com/#yesmore/cv-mkr&B-SOUL-Studio/cli&yesmore/Different-UI&yesmore/italk-uniapp&yesmore/QuickStart-Vue3&yesmore/vue-egg-jwt-template&yesmore/vupp&Date" />
     </td>
 </tr>
 </table>
