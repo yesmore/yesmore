@@ -38,11 +38,11 @@
 	<img height='180px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=html'/>
     </td>
 </tr>
-<tr>
+<!-- <tr>
     <td colspan="2" align="center">      
-	<img width='80%' src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Etc%2FGMT-8'/>  
+	<img width='80%' src='https://metrics.lecoq.io/yesmore?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Etc%2FGMT-8'/>      
     </td>
-</tr>
+</tr> -->
 <!-- <tr>
     <td colspan="2" align="center">      
 	    <img width='80%' alt='readme' src="https://api.star-history.com/svg?repos=yesmore/cv-mkr,B-SOUL-Studio/cli,yesmore/Different-UI,yesmore/italk-uniapp,yesmore/QuickStart-Vue3,yesmore/vue-egg-jwt-template,yesmore/vupp&type=Date)](https://star-history.com/#yesmore/cv-mkr&B-SOUL-Studio/cli&yesmore/Different-UI&yesmore/italk-uniapp&yesmore/QuickStart-Vue3&yesmore/vue-egg-jwt-template&yesmore/vupp&Date" />
@@ -59,6 +59,8 @@
 <a href='mailto:982545311_at_qq.com'><img src='https://img.shields.io/badge/-QQ群:982545311-414318?style=flat-square'/></a <br>
 <a href='https://github.com/yesmore'><img src='https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&style=flat-square&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dyesmore&longCache=true'/></a> 
 <a href='https://gitter.im/yesmore/yesmoreforchat'><img src='https://badges.gitter.im/yesmore/yesmoreforchat.svg'/></a> <img src="https://visitor-badge.glitch.me/badge?page_id=yesmore.yesmore" /> 
+	
+<div align='middle'><img src='https://cdn.jsdelivr.net/gh/yesmore/yesmore@output/github-contribution-grid-snake.svg'/></div>
 	
 <div align='middle'><img src='https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&lines=%E4%B8%8D%E5%BF%85%E4%BB%B0%E6%9C%9B%E5%88%AB%E4%BA%BA;%E8%87%AA%E5%B7%B1%E4%BA%A6%E6%98%AF%E9%A3%8E%E6%99%AF'/></div>
 <!-- <img src='https://activity-graph.herokuapp.com/graph?username=yesmore&theme=minimal'/>  -->
