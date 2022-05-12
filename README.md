@@ -1,6 +1,6 @@
 
 <h1>
-	<img width='30' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/> 𝘏𝘦𝘦𝘦𝘦𝘳𝘦 ~  
+<img width='35' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/>  <img src='https://readme-typing-svg.herokuapp.com?vCenter=true&height=25&lines=%F0%9D%91%AF%F0%9D%92%86%F0%9D%92%86%F0%9D%92%86%F0%9D%92%86%F0%9D%92%86%F0%9D%92%86%F0%9D%92%86%F0%9D%92%86%F0%9D%92%93%F0%9D%92%86~'/>
 </h1>
 	
 <table border="0">
@@ -59,6 +59,6 @@
 	
 <div align='middle'><img src='https://cdn.jsdelivr.net/gh/yesmore/yesmore@output/github-contribution-grid-snake.svg#gh-dark-mode-only'/></div>
 	
-<div align='middle'><img src='https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&lines=%E4%B8%8D%E5%BF%85%E4%BB%B0%E6%9C%9B%E5%88%AB%E4%BA%BA;%E8%87%AA%E5%B7%B1%E4%BA%A6%E6%98%AF%E9%A3%8E%E6%99%AF'/></div>
+<div align='middle'></div>
 <!-- <img src='https://activity-graph.herokuapp.com/graph?username=yesmore&theme=minimal'/>  -->
 <!-- <img width='30' src='https://emojis.slackmojis.com/emojis/images/1623215441/44110/cat_pls.gif?1623215441'> -->
