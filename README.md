@@ -1,11 +1,11 @@
 
-
+<h2>
+	<img width='30' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/> 𝘏𝘦𝘦𝘦𝘦𝘳𝘦 ~  
+</h2>
+	
 <table border="0">
 <tr>
     <td>
-	<h2>
-	   <img width='30' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/> 𝘏𝘦𝘦𝘦𝘦𝘳𝘦 ~  
-	</h2>
   	<ul>
            <li>🤖 我是 <a href='https://yesmore.cc'>2meow</a>, 或者2喵. </li>    
            <li>👨🏻‍💻 目前是成都<em>双流一</em>大学 2019 级本科牲.</li> 
@@ -16,9 +16,6 @@
   	</ul> 
     </td>
     <td>
-	 <h2>
-            🔥 𝘔𝘺 𝘛𝘰𝘰𝘰𝘰𝘰𝘰𝘺 
-        </h2>
         <ul>
             <li>🛠️ <a href='https://der-cli.vercel.app/' target='_blank'>𝐃𝐞𝐫-𝐂𝐥𝐢</a> - 轻量脚手架工具 </li>
             <li>🎨 <a href='https://cv-mkr.vercel.app'>𝐂𝐕 𝐌𝐊𝐫</a> - 简历生成器 </li>
