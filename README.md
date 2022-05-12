@@ -1,7 +1,7 @@
 
-<h2>
+<h1>
 	<img width='30' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/> 𝘏𝘦𝘦𝘦𝘦𝘳𝘦 ~  
-</h2>
+</h1>
 	
 <table border="0">
 <tr>
