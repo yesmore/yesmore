@@ -7,7 +7,7 @@
 <tr>
     <td>
   	<ul>
-           <li>🤖 我是 <a href='https://yesmore.cc'>2meow</a>, 或者2喵. </li>    
+           <li>🤖 我叫 <a href='https://yesmore.cc'>2meow</a>, 或者2喵. </li>    
            <li>👨🏻‍💻 目前是成都<em>双流一</em>大学 2019 级本科牲.</li> 
            <li>🚀 倒装句患者 | 反射弧略长 | 喜欢东捣西捣.</li> 
            <li>🎯 <a href='https://yesmore.cc'>快乐码原</a> 是我的个人博客, 欢迎来参观~ </li> 
