@@ -30,21 +30,39 @@
     <li>📘 <a href='https://yesmore.cc/cn/Diary/'>2喵杂记</a> - 生活杂记</li>
 </ul>
 	
-	
-	
-<div align='middle'><img src='https://cdn.jsdelivr.net/gh/yesmore/yesmore@output/github-contribution-grid-snake.svg#gh-dark-mode-only'/></div>
+## ✨ Tech & Skill
 
-<h2>
-   🤖 Reach me
-</h2>
+<div align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat-square&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vue-46b882?style=flat-square&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-00b4ce?style=flat-square&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/MINA-09b955?style=flat-square&logo=wechat&logoColor=white">
+  <img src="https://img.shields.io/badge/-less-bf608e?style=flat-square&logo=less&logoColor=white"> <br>
+
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=Node.js&logoColor=white">	
+  <img src="https://img.shields.io/badge/-Go-55b9f3?style=flat-square&logo=go">	
+  <img src="https://img.shields.io/badge/-Python-default?style=flat-square&logo=python">	
+  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat-square&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-218bea?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github">	
+</div>
+
+## 🤖 Reach me
+
 <a href='https://yesmore.cc'><img src='https://img.shields.io/badge/-https://yesmore.cc-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://yesmore.cc'/></a> 
-<a href='mailto:3224266014_at_qq.com'><img src='https://img.shields.io/badge/-3224266014@qq.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438'/></a <br>
+<a href='mailto:3224266014_at_qq.com'><img src='https://img.shields.io/badge/-3224266014@qq.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438'/></a> <br>
 <a href='https://github.com/yesmore'><img src='https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&style=flat-square&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dyesmore&longCache=true'/></a> 
 	
 	
 ## 💬 Chating
 <a href='https://gitter.im/yesmore/yesmoreforchat'><img src='https://badges.gitter.im/yesmore/yesmoreforchat.svg'/></a>
 <img src='https://img.shields.io/badge/-web前端bb群:982545311-414318?style=flat-square'/>	
+	
+	
+<div align='middle'><img src='https://cdn.jsdelivr.net/gh/yesmore/yesmore@output/github-contribution-grid-snake.svg#gh-dark-mode-only'/></div>	
 <!-- <img src='https://activity-graph.herokuapp.com/graph?username=yesmore&theme=minimal'/>  -->
 <!-- <img width='30' src='https://emojis.slackmojis.com/emojis/images/1623215441/44110/cat_pls.gif?1623215441'> -->
 <!-- <table width='30%' align='right' border="0">
