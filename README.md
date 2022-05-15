@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/-React-00b4ce?style=flat-square&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/MINA-09b955?style=flat-square&logo=wechat&logoColor=white">
-  <img src="https://img.shields.io/badge/-less-bf608e?style=flat-square&logo=less&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/-Sass-bf608e?style=flat-square&logo=sass&logoColor=white"> <br>
 
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=Node.js&logoColor=white">	
   <img src="https://img.shields.io/badge/-Go-55b9f3?style=flat-square&logo=go">	
