@@ -51,7 +51,7 @@
 ## 🤖 Reach me
 
 <a href='https://yesmore.cc'><img src='https://img.shields.io/badge/-https://yesmore.cc-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://yesmore.cc'/></a> 
-<a href='mailto:3224266014_at_qq.com'><img src='https://img.shields.io/badge/-3224266014@qq.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438'/></a> <br>
+<a href='mailto:3224266014_at_qq.com'><img src='https://img.shields.io/badge/-3224266014@qq.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438'/></a> 
 <a href='https://github.com/yesmore'><img src='https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&style=flat-square&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dyesmore&longCache=true'/></a> 
 	
 	
