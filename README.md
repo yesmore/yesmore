@@ -6,14 +6,12 @@
 
 <img align='right' width='50%' alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=react" />
 
-<ul>
-   <li>👴 我叫 <a href='https://yesmore.cc'>2meow</a>, 或者2喵. </li>    
-   <li>💼 坐标成都, <em>双流一</em>大学本科牲.</li> 
-   <li>🚀 倒装句患者 | 反射弧略长 | 喜欢东捣西捣.</li> 
-   <li>🎯 <a href='https://yesmore.cc'>快乐码原</a> 是我的个人博客, 欢迎来参观~ </li> 
-   <li>💁 欢迎加入<strong>web前端bb群</strong>摸鱼.</li>
-  <li>✨ 如果想找我🤺, 那↘ 就↗ 来↗ 吧↘ !</li>
-</ul> 
+- 👴 我叫 <a href='https://yesmore.cc'>2meow</a>, 或者2喵.   
+- 💼 坐标成都, <em>双流一</em>大学本科牲.</li> 
+- 🚀 倒装句患者 | 反射弧略长 | 喜欢东捣西捣.</li> 
+- 🎯 <a href='https://yesmore.cc'>快乐码原</a> 是我的个人博客, 欢迎来参观~ 
+- 💁 欢迎加入 [**web前端bb群**](#-reach-me) 摸鱼.
+- ✨ 如果想找我🤺, 那↘ 就↗ 来↗ 吧↘ !
 
 
 ## 🔥 My Tooooy
