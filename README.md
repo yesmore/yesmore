@@ -11,7 +11,7 @@
    <li>💼 坐标成都, <em>双流一</em>大学本科牲.</li> 
    <li>🚀 倒装句患者 | 反射弧略长 | 喜欢东捣西捣.</li> 
    <li>🎯 <a href='https://yesmore.cc'>快乐码原</a> 是我的个人博客, 欢迎来参观~ </li> 
-   <li>💁 欢迎加入<strong>web前端bb群</strong>摸鱼.(群号: <code>982545311</code>)</li>
+   <li>💁 欢迎加入<strong>web前端bb群</strong>摸鱼.</li>
   <li>✨ 如果想找我🤺, 那↘ 就↗ 来↗ 吧↘ !</li>
 </ul> 
 
@@ -44,7 +44,7 @@
 	
 ## 💬 Chating
 <a href='https://gitter.im/yesmore/yesmoreforchat'><img src='https://badges.gitter.im/yesmore/yesmoreforchat.svg'/></a>
-<img src='https://img.shields.io/badge/-QQ群:982545311-414318?style=flat-square'/>	
+<img src='https://img.shields.io/badge/-web前端bb群:982545311-414318?style=flat-square'/>	
 <!-- <img src='https://activity-graph.herokuapp.com/graph?username=yesmore&theme=minimal'/>  -->
 <!-- <img width='30' src='https://emojis.slackmojis.com/emojis/images/1623215441/44110/cat_pls.gif?1623215441'> -->
 <!-- <table width='30%' align='right' border="0">
