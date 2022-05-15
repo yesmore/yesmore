@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/-Sass-bf608e?style=flat-square&logo=sass&logoColor=white"> <br>
 
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=Node.js&logoColor=white">	
-  <img src="https://img.shields.io/badge/-Go-55b9f3?style=flat-square&logo=go">	
+  <img src="https://img.shields.io/badge/-GoLand-55b9f3?style=flat-square&logo=go">	
   <img src="https://img.shields.io/badge/-Python-default?style=flat-square&logo=python">	
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat-square&logo=nginx&logoColor=white">
