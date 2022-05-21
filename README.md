@@ -16,7 +16,7 @@
 
 ## 🔥 My Tooooy
 
-<img align='right' width='50%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=openEdge ABL'/>
+<img align='right' width='50%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=C'/>
 
 <ul>
     <li>🛠️ <a href='https://der-cli.vercel.app/' target='_blank'>𝐃𝐞𝐫-𝐂𝐥𝐢</a> - 轻量脚手架工具 </li>
