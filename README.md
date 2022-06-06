@@ -10,7 +10,7 @@
 - 💼 坐标成都, <em>双流一</em>大学本科牲.</li> 
 - 🚀 倒装句患者 | 反射弧略长.</li> 
 - 🎯 <a href='https://yesmore.cc'>快乐码原</a> 是我的博客, 欢迎参观.
-- 💁 欢迎加入 [**web前端bb群**](#-reach-me) 摸鱼.
+- 💁 欢迎加入 [**web前端养老院**](#-reach-me) 摸鱼.
 - ✨ 如果想找我🤺, 那↘ 就↗ 来↗ 吧↘ !
 
 
@@ -27,7 +27,7 @@
     <li>💁 <a href='http://italk.auao.top'>𝐢𝐭𝐚𝐥𝐤-𝐮𝐧𝐢𝐚𝐩𝐩</a> - QQ(假)</li>
     <li>📘 <a href='https://yesmore.cc/cn/Diary/'>2喵杂记</a> - 生活杂记</li>
 </ul>
-	
+
 ## ✨ Tech & Skill
 
 <div align="left">
@@ -57,21 +57,8 @@
 	
 ## 💬 Chating
 <a href='https://gitter.im/yesmore/yesmoreforchat'><img src='https://badges.gitter.im/yesmore/yesmoreforchat.svg'/></a>
-<img src='https://img.shields.io/badge/-web前端bb群:982545311-414318?style=flat-square'/>	
+<img src='https://img.shields.io/badge/-web前端养老院(不定期分享课程资源):982545311-414318?style=flat-square'/>	
 	
 	
+
 <div align='middle'><img src='https://cdn.jsdelivr.net/gh/yesmore/yesmore@output/github-contribution-grid-snake.svg#gh-dark-mode-only'/></div>	
-<!-- <img src='https://activity-graph.herokuapp.com/graph?username=yesmore&theme=minimal'/>  -->
-<!-- <img width='30' src='https://emojis.slackmojis.com/emojis/images/1623215441/44110/cat_pls.gif?1623215441'> -->
-<!-- <table width='30%' align='right' border="0">
-<tr width='70%'>
-    <td width='70%' align="center">      
-	<img width='70%' alt='readme' src="https://github-readme-stats.vercel.app/api?username=yesmore&show_icons=true&theme=react" />
-    </td>
-</tr>
-<tr width='70%'>
-    <td align="center">
-	
-    </td>
-</tr>
-</table> -->
